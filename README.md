@@ -15,7 +15,7 @@ Use it:
 
     $title = 'Τάχιστη αλώπηξ βαφής ψημένη γη - Mary Had A Little Lamb';
 
-    grstrtoupper($title);
+    echo grstrtoupper($title);
 
     // Result
     // ΤΑΧΙΣΤΗ ΑΛΩΠΗΞ ΒΑΦΗΣ ΨΗΜΕΝΗ ΓΗ - MARY HAD A LITTLE LAMB
