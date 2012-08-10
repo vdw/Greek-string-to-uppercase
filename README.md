@@ -1,6 +1,6 @@
-# CodeIgniter String Helpers - Greek string to uppercase
+# Greek string to uppercase
 
-## Correctly converts greek letters to uppercase
+## A CodeIgniter String Helper that correctly converts greek letters to uppercase
 This helper extends the core helper and adds a fuction that converts greek letters of a string to uppercase.
 
 ## Usage
