@@ -19,3 +19,7 @@ Use it:
 
     // Result
     // ΤΑΧΙΣΤΗ ΑΛΩΠΗΞ ΒΑΦΗΣ ΨΗΜΕΝΗ ΓΗ - MARY HAD A LITTLE LAMB
+
+## Copyright and license
+
+Copyright (©) 2012 Dimitris Krestos. See LICENSE for details.
